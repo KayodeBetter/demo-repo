@@ -5,3 +5,5 @@ I wrote this
 
 I believe that the journey of a thousand mile 
 starts with one step
+
+once bitten twice shy
